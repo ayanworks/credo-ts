@@ -49,12 +49,12 @@
     "ts-node": "^10.9.2",
     "tsyringe": "^4.8.0",
     "typescript": "~5.5.2",
-    "undici": "^6.20.1",
+    "undici": "^6.24.0",
     "ws": "^8.13.0"
   },
   "resolutions": {
     "@types/node": "18.18.8",
-    "undici": "^6.20.1"
+    "undici": "^6.24.0"
   },
   "engines": {
     "node": ">=18"
